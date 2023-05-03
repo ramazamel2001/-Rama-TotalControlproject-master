@@ -55,6 +55,6 @@ We welcome all feedback and contributions to the project. If you have any issues
 - It's important to note that the app is not a substitute for parental supervision, and it should be used as a tool to help facilitate healthy phone usage habits.
 
 ## Contact
-For any further question or inquiry please contact us at ramazamel2001@icloud.com.
+For any further question or inquiry please contact us at ramazamel2001@outlook.com.
 
 Thank you for using Total Control, and we hope you enjoy using it as much as we enjoyed building it!
